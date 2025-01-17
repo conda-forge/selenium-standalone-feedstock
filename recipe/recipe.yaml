@@ -1,5 +1,5 @@
 context:
-  version: 10.0.0
+  version: "10.0.1"
 
 package:
   name: selenium-standalone
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/selenium-standalone/-/selenium-standalone-${{ version }}.tgz
-  sha256: eae79684ff278b63ec338ab9e224f090842a397e4798f821d41c177e8d9d95f6
+  sha256: 7d9683c966195e81e9f65c6839b1481830b8443357f6917943f00000e77db40a
 
 build:
   number: 0
